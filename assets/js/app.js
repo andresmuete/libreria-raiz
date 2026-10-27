@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>console.info("Librería Raíz cargada correctamente."));
