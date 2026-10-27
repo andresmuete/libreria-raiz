@@ -1,0 +1,23 @@
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores
+.vscode/
+.idea/
+
+# Dependencias y archivos generados
+node_modules/
+dist/
+build/
+
+# Archivos de entorno con posibles secretos
+.env
+.env.*
+!.env.example
+
+# Archivos temporales y logs
+*.log
+.tmp/
